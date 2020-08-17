@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3358d90d-60ab-4239-8151-a11b40e4ee37" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/broadcasting.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/broadcasting.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/channels.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/channels.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,8 +150,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.env" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -164,7 +173,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597629615705</updated>
-      <workItem from="1597629616737" duration="2432000" />
+      <workItem from="1597629616737" duration="3599000" />
     </task>
     <task id="LOCAL-00001" summary="- project 생성">
       <created>1597635179673</created>
@@ -173,24 +182,67 @@
       <option name="project" value="LOCAL" />
       <updated>1597635179673</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="- configuration">
+      <created>1597635570525</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597635570525</updated>
+    </task>
+    <task id="LOCAL-00003" summary="- configuration">
+      <created>1597635671356</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597635671356</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="- project 생성" />
-    <option name="LAST_COMMIT_MESSAGE" value="- project 생성" />
+    <MESSAGE value="- configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="- configuration" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="390" y="474" key="CommitChangelistDialog2" timestamp="1597635179153">
+    <state x="390" y="474" width="1282" height="983" key="CommitChangelistDialog2" timestamp="1597635671214">
       <screen x="0" y="23" width="3360" height="1867" />
     </state>
-    <state x="390" y="474" key="CommitChangelistDialog2/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597635179153" />
-    <state x="505" y="460" width="670" height="676" key="search.everywhere.popup" timestamp="1597635374505">
+    <state x="390" y="474" width="1282" height="983" key="CommitChangelistDialog2/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597635671214" />
+    <state width="2240" height="562" key="GridCell.Tab.0.bottom" timestamp="1597635612145">
       <screen x="0" y="23" width="3360" height="1867" />
     </state>
-    <state x="505" y="460" width="670" height="676" key="search.everywhere.popup/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597635374505" />
+    <state width="2240" height="562" key="GridCell.Tab.0.bottom/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597635612145" />
+    <state width="2240" height="562" key="GridCell.Tab.0.center" timestamp="1597635612144">
+      <screen x="0" y="23" width="3360" height="1867" />
+    </state>
+    <state width="2240" height="562" key="GridCell.Tab.0.center/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597635612144" />
+    <state width="2240" height="562" key="GridCell.Tab.0.left" timestamp="1597635612143">
+      <screen x="0" y="23" width="3360" height="1867" />
+    </state>
+    <state width="2240" height="562" key="GridCell.Tab.0.left/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597635612143" />
+    <state width="2240" height="562" key="GridCell.Tab.0.right" timestamp="1597635612144">
+      <screen x="0" y="23" width="3360" height="1867" />
+    </state>
+    <state width="2240" height="562" key="GridCell.Tab.0.right/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597635612144" />
+    <state x="505" y="460" width="670" height="676" key="search.everywhere.popup" timestamp="1597636290044">
+      <screen x="0" y="23" width="3360" height="1867" />
+    </state>
+    <state x="505" y="460" width="670" height="676" key="search.everywhere.popup/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597636290044" />
   </component>
 </project>
