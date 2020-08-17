@@ -37,6 +37,8 @@ Route::layout('layouts.auth')->group(function () {
 
         Route::livewire('password/confirm', 'auth.passwords.confirm')
             ->name('password.confirm');
+
+        Route::livewire('chat', 'chat-room');
     });
 });
 

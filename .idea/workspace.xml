@@ -12,8 +12,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3358d90d-60ab-4239-8151-a11b40e4ee37" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/User.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/User.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/channels.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/channels.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/livewire/chat-room.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/chat-room.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,17 +144,21 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1gCrrleEqavkcmY7zYKb27ryLrf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/.env" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -173,7 +177,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597629615705</updated>
-      <workItem from="1597629616737" duration="3599000" />
+      <workItem from="1597629616737" duration="6194000" />
     </task>
     <task id="LOCAL-00001" summary="- project 생성">
       <created>1597635179673</created>
@@ -196,7 +200,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597635671356</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="- Model, Event">
+      <created>1597636738478</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597636738478</updated>
+    </task>
+    <task id="LOCAL-00005" summary="- Front-End">
+      <created>1597637738258</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1597637738258</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,31 +233,38 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="- project 생성" />
     <MESSAGE value="- configuration" />
-    <option name="LAST_COMMIT_MESSAGE" value="- configuration" />
+    <MESSAGE value="- Model, Event" />
+    <MESSAGE value="- Front-End" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Front-End" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="390" y="474" width="1282" height="983" key="CommitChangelistDialog2" timestamp="1597635671214">
+    <state x="837" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597637335010">
       <screen x="0" y="23" width="3360" height="1867" />
     </state>
-    <state x="390" y="474" width="1282" height="983" key="CommitChangelistDialog2/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597635671214" />
-    <state width="2240" height="562" key="GridCell.Tab.0.bottom" timestamp="1597635612145">
+    <state x="837" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597637335010" />
+    <state x="390" y="474" width="1282" height="983" key="CommitChangelistDialog2" timestamp="1597637738076">
       <screen x="0" y="23" width="3360" height="1867" />
     </state>
-    <state width="2240" height="562" key="GridCell.Tab.0.bottom/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597635612145" />
-    <state width="2240" height="562" key="GridCell.Tab.0.center" timestamp="1597635612144">
+    <state x="390" y="474" width="1282" height="983" key="CommitChangelistDialog2/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597637738076" />
+    <state width="1119" height="562" key="GridCell.Tab.0.bottom" timestamp="1597636854475">
       <screen x="0" y="23" width="3360" height="1867" />
     </state>
-    <state width="2240" height="562" key="GridCell.Tab.0.center/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597635612144" />
-    <state width="2240" height="562" key="GridCell.Tab.0.left" timestamp="1597635612143">
+    <state width="1119" height="562" key="GridCell.Tab.0.bottom/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597636854475" />
+    <state width="1119" height="562" key="GridCell.Tab.0.center" timestamp="1597636854474">
       <screen x="0" y="23" width="3360" height="1867" />
     </state>
-    <state width="2240" height="562" key="GridCell.Tab.0.left/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597635612143" />
-    <state width="2240" height="562" key="GridCell.Tab.0.right" timestamp="1597635612144">
+    <state width="1119" height="562" key="GridCell.Tab.0.center/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597636854474" />
+    <state width="1119" height="562" key="GridCell.Tab.0.left" timestamp="1597636854473">
       <screen x="0" y="23" width="3360" height="1867" />
     </state>
-    <state width="2240" height="562" key="GridCell.Tab.0.right/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597635612144" />
+    <state width="1119" height="562" key="GridCell.Tab.0.left/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597636854473" />
+    <state width="1119" height="562" key="GridCell.Tab.0.right" timestamp="1597636854474">
+      <screen x="0" y="23" width="3360" height="1867" />
+    </state>
+    <state width="1119" height="562" key="GridCell.Tab.0.right/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597636854474" />
     <state x="505" y="460" width="670" height="676" key="search.everywhere.popup" timestamp="1597636290044">
       <screen x="0" y="23" width="3360" height="1867" />
     </state>
