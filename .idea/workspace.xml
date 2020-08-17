@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3358d90d-60ab-4239-8151-a11b40e4ee37" name="Default Changelist" comment="" />
+    <list default="true" id="3358d90d-60ab-4239-8151-a11b40e4ee37" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/broadcasting.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/broadcasting.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +24,9 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -128,6 +138,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1gCrrleEqavkcmY7zYKb27ryLrf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -153,17 +164,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597629615705</updated>
-      <workItem from="1597629616737" duration="1870000" />
+      <workItem from="1597629616737" duration="2432000" />
     </task>
+    <task id="LOCAL-00001" summary="- project 생성">
+      <created>1597635179673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597635179673</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="- project 생성" />
+    <option name="LAST_COMMIT_MESSAGE" value="- project 생성" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="505" y="460" width="670" height="676" key="search.everywhere.popup" timestamp="1597634435896">
+    <state x="390" y="474" key="CommitChangelistDialog2" timestamp="1597635179153">
       <screen x="0" y="23" width="3360" height="1867" />
     </state>
-    <state x="505" y="460" width="670" height="676" key="search.everywhere.popup/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597634435896" />
+    <state x="390" y="474" key="CommitChangelistDialog2/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597635179153" />
+    <state x="505" y="460" width="670" height="676" key="search.everywhere.popup" timestamp="1597635374505">
+      <screen x="0" y="23" width="3360" height="1867" />
+    </state>
+    <state x="505" y="460" width="670" height="676" key="search.everywhere.popup/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597635374505" />
   </component>
 </project>

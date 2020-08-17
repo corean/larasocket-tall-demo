@@ -6,7 +6,13 @@ import 'alpinejs';
  * allows your team to easily build robust real-time web applications.
  */
 
-// import Echo from 'laravel-echo'
+import Echo from 'laravel-echo';
+import Larasocket from 'larasocket-js';
+
+window.Echo = new Echo({
+    broadcaster: Larasocket,
+    token: process.env.MIX_LARASOCKET_TOKEN,
+});
 
 // window.Pusher = require('pusher-js');
 
