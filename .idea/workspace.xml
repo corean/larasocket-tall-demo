@@ -11,9 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3358d90d-60ab-4239-8151-a11b40e4ee37" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/livewire/chat-room.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/livewire/chat-room.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +175,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597629615705</updated>
-      <workItem from="1597629616737" duration="6194000" />
+      <workItem from="1597629616737" duration="6330000" />
     </task>
     <task id="LOCAL-00001" summary="- project 생성">
       <created>1597635179673</created>
@@ -214,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597637738258</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="- Front-End">
+      <created>1597639313098</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597639313098</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -245,10 +250,10 @@
       <screen x="0" y="23" width="3360" height="1867" />
     </state>
     <state x="837" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597637335010" />
-    <state x="390" y="474" width="1282" height="983" key="CommitChangelistDialog2" timestamp="1597637738076">
+    <state x="390" y="474" width="1282" height="983" key="CommitChangelistDialog2" timestamp="1597639312928">
       <screen x="0" y="23" width="3360" height="1867" />
     </state>
-    <state x="390" y="474" width="1282" height="983" key="CommitChangelistDialog2/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597637738076" />
+    <state x="390" y="474" width="1282" height="983" key="CommitChangelistDialog2/0.23.3360.1867/-3315.23.3315.1867@0.23.3360.1867" timestamp="1597639312928" />
     <state width="1119" height="562" key="GridCell.Tab.0.bottom" timestamp="1597636854475">
       <screen x="0" y="23" width="3360" height="1867" />
     </state>
